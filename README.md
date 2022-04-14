@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **mertbakimci@hotmail.com**
+- 📫 How to reach me **mert@bakmc.net**
 
 - ⚡ Fun fact **I think I am funny and little bit genius.**
 
